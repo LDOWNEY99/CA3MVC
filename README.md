@@ -3,9 +3,9 @@ This project is a systematic way of accessing student and lecturer details withi
 
 What you will need?
 
-Xammp - to run the database 
-sql file - to run on a mySql server for the database
-netbeans - to run the code
+|Xammp - to run the database 
+|sql file - to run on a mySql server for the database
+|netbeans - to run the code
 
 Step 1:
 
